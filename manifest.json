@@ -1,0 +1,9 @@
+{
+    "name": "krmo - keytouch's blog",
+    "short_name": "krmo",
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "start_url": "./?utm_source=homescreen"
+}
